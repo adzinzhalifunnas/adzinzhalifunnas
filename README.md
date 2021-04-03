@@ -21,4 +21,4 @@ Contact me
 <br>
 [<img src="https://img.shields.io/badge/Telegram-Dzin-blue">](https://t.me/adzinzh)
 [<img src="https://img.shields.io/badge/LINE-Dzin-brightgreen">](https://line.me/ti/p/~dzinz)
-[<img src="https://img.shields.io/badge/Email-Dzin-orange">](adzinzhalifunnas@gmail.com)
+[<img src="https://img.shields.io/badge/Email-Dzin-orange">](https://adzinzhalifunnas@gmail.com)
