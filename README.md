@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi :sunglasses:, I'm [Dzin](https://dzin.me)
+I'm [Dzin](https://dzin.me) 😊
 
 Contact me
 <br>
