@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi :sunglasses:, I'm [Dzin](https://dzin.me)
+
+Contact me
+<br><br>
+[<img src="https://img.shields.io/badge/Telegram-Dzin-blue">](https://t.me/adzinzh)
+[<img src="https://img.shields.io/badge/LINE-Dzin-brightgreen">](https://line.me/ti/p/~dzinz)
+[<img src="https://img.shields.io/badge/Email-Dzin-orange">](adzinzhalifunnas@gmail.com)
